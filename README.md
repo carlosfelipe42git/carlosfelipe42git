@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @carlosfelipe42git
+- 👀 I’m interested in sharing my developments and projects
+- 🌱 I’m currently learning web dev and design
+- 💞️ I’m looking to collaborate on website or game development
+- 📫 How to reach me: araujocarlosfelipe@gmail.com
+- ⚡ focused on evolving more and more
